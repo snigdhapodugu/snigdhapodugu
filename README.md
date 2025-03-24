@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 ## About Me
 I am a Data Science student at the University of California, San Diego, planning to graduate in June of 2026. I am currently working on projects that involve computer vision, machine learning, and data visualization. 
 
-## Currently
+## Projects
 - **StepSync:** Developing an interactive explorable explanation to compare healthy walking posture with personal gait data using computer vision and D3.js.
 
 ## Skills
