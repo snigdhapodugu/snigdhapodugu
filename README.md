@@ -2,7 +2,7 @@
 Currently pursuing a Data Science B.S. at the University of California San Diego, planning to graduate in June of 2026. Working on projects that involve computer vision, machine learning, and data visualization. 
 
 ## Projects
-- **UCSD Major/Minor Overlap:** This tool helps UCSD students identify overlapping courses between majors and minors using HTML, CSS, and JS.
+- **UCSD Major/Minor Overlap:** This tool helps UCSD students identify overlapping courses between majors and minors using HTML, CSS, and JS. [Link](https://snigdhapodugu.github.io/ucsd-major-minor-overlap/)
 - **StepSync:** Developing an interactive visualization to compare healthy walking posture with your personal walking style using computer vision and D3.js.
 - **Pushup Form Correction:** Developing a machine learning model that detects pushup reps and corrects form using OpenCV, Mediapipe, and scikit-learn. 
 
