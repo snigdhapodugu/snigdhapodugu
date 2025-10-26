@@ -11,6 +11,6 @@ Currently pursuing a Data Science B.S. at the University of California San Diego
 - **Frameworks:** D3.js, NumPy, Pandas, scikit-learn, OpenCV, Mediapipe
 - **Tools:** Git, GitHub, Jupyter, Visual Studio Code, Cursor
 
-## Connect w/Me
+## Connect
 - **LinkedIn**: [Snigdha Podugu](https://www.linkedin.com/in/snigdha-podugu-841ab3255/)
 - **Email**: [spodugu@ucsd.edu](mailto:spodugu@ucsd.edu)
